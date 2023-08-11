@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.formulario{
+    position: absolute;
+    background-color: rgb(194, 219, 212);
+    text-align: center;
+    padding: 5%;
+    padding-top: 5%;
+    margin-top: 200px;
+    margin-left: 350px;
+    border-radius:10px ;
+
+    
+}
+.formulario h1{
+    color: aliceblue;
+}
+.color{
+    background-color: rgb(212, 150, 68);
+}
+#calcular{
+    background-color: rgb(144, 161, 161);
+    border-radius: 15px;
+    width: 100px;
+}
